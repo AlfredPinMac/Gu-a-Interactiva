@@ -1,0 +1,101 @@
+.modal-header{
+    background-color: #C490E4;
+    color: #F9F9F9;
+}
+
+.modal-body{
+    background-color: #F9F9F9;
+}
+
+.modal-footer{
+    background-color: #F6C6EA;
+}
+
+.btn-secondary:hover, .btn-primary:hover{
+    background-color: #C490E4;
+}
+
+.navbar-custom {
+    background-color: #C490E4;
+}
+
+.nav-link:hover{
+    color: #CDF0EA;
+}
+
+.encabezado0{
+    background-image: url("img/inicio.png");
+    height: 100px;
+    background-size: cover;
+    padding: 15%;
+}
+
+.encabezado1{
+    background-image: url("img/dprim.png");
+    height: 100px;
+    background-size: cover;
+    padding: 15%;
+}
+
+.encabezado2{
+    background-image: url("img/dperm.png");
+    height: 100px;
+    background-size: cover;
+    padding: 15%;
+}
+
+.abajo{
+    padding: 30px;
+    background-color: #F6C6EA;
+    text-align: center;
+    color: #F9F9F9;
+}
+
+.subtitulos{
+    color: #C490E4;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+h3{
+    color: #C490E4;
+}
+
+.texto{
+    text-align: justify;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.carrusel{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.contenido{
+    background-color: #F9F9F9;
+    padding-bottom: 40px;
+}
+
+.contenidotab{
+    background-image: url("img/fondo.png");
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+}
+
+.cabecera{
+    background-color: #F6C6EA;
+}
+
+.carousel-img {
+    height: 300px;
+    width: 100%;
+    object-fit: contain;
+    background-color: #F9F9F9;
+  }
+  
